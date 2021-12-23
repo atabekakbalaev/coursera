@@ -84,7 +84,6 @@
     <configuration name="RandomWord" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="RandomWord" />
       <module name="Algorithms, Part I" />
-      <option name="PROGRAM_PARAMETERS" value="a bc d" />
       <method v="2" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
